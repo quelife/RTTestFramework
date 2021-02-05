@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'RTTestFramework'
-  spec.version          = '1.0.0'
+  spec.version          = '1.0.1'
   spec.license          = { :type => 'que Copyright' }
   spec.homepage         = 'https://github.com/quelife/RTTestFramework'
   spec.authors          = { 'thanaphon kongjuti' => 'thanaphon.que@gmail.com' }
